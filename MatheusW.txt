@@ -1,0 +1,12 @@
+Principais palavras-chave sobre Git organizadas por categorias:
+
+* **Repositório (Repository / Repo):** Banco de dados ou pasta onde o Git gerencia e armazena o histórico do seu projeto.
+* **Commit:** Registro oficial de alterações; o "ponto de salvamento" do seu projeto com uma mensagem descritiva.
+* **Branch:** Linha de desenvolvimento independente (ramificação) que permite trabalhar em novas funcionalidades sem alterar o código principal (`main`).
+* **Checkout / Switch:** Comando usado para alternar entre branches ou restaurar arquivos.
+* **Clone:** Cópia de um repositório existente (geralmente remoto, como no [GitHub](https://github.com/Mateus-MC-dev/Atividade_avancada)) para a sua máquina local.
+* **Pull:** Baixa as atualizações mais recentes de um repositório remoto e as integra no seu repositório local.
+* **Push:** Envia os seus commits locais para o repositório remoto na nuvem.
+* **Merge:** Junta o histórico e as alterações de uma branch em outra (ex: unir uma `feature` na `main`).
+* **Staging Area (Index):** Área intermediária onde você seleciona quais arquivos modificados serão incluídos no próximo commit.
+* **Status:** Mostra o estado atual do repositório (arquivos modificados, não rastreados ou prontos para commit).
